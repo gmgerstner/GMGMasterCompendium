@@ -14,6 +14,7 @@
     }
   ],
   "url": "https://github.com/gmgerstner/GMGMasterCompendium",
+  "manifest": "https://github.com/gmgerstner/GMGMasterCompendium/blob/main/module.json",
   "packs": [
     {
       "label": "Monsters",
