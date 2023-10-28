@@ -1,0 +1,26 @@
+{
+  "id": "gmg-master-compendium",
+  "title": "GMG Master Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Compendium of common content",
+  "authors": [
+    {
+      "name": "G.M.Gerstner",
+      "url": "https://github.com/gmgerstner/GMGMasterCompendium"
+    }
+  ],
+  "url": "https://github.com/gmgerstner/GMGMasterCompendium",
+  "packs": [
+    {
+      "label": "Monsters",
+      "name": "monsters",
+      "type": "Actor",
+      "system": "dnd5e",
+      "path": "packs/monsters"
+    }
+  ]
+}
