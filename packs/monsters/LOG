@@ -1,5 +1,15 @@
-2023/10/27-19:19:16.276 23ac Delete type=3 #1
-2023/10/27-19:20:57.056 170 Level-0 table #5: started
-2023/10/27-19:20:57.105 170 Level-0 table #5: 129297 bytes OK
-2023/10/27-19:20:57.147 170 Delete type=0 #3
-2023/10/27-19:20:57.148 170 Manual compaction at level-0 from '!actors!4BTLYiRHBf6WBjbf' @ 72057594037927935 : 1 .. '!actors.items!wuh8YHDTn6HYU3wv.WEesSpitzLnaCknL' @ 0 : 0; will stop at (end)
+2023/10/27-20:59:44.773 23a0 Recovering log #4
+2023/10/27-20:59:44.825 23a0 Delete type=0 #4
+2023/10/27-20:59:44.825 23a0 Delete type=3 #2
+2023/10/27-22:39:05.398 170 Level-0 table #9: started
+2023/10/27-22:39:05.422 170 Level-0 table #9: 15509 bytes OK
+2023/10/27-22:39:05.522 170 Delete type=0 #7
+2023/10/27-22:39:05.522 170 Manual compaction at level-0 from '!actors!4BTLYiRHBf6WBjbf' @ 72057594037927935 : 1 .. '!actors.items!wuh8YHDTn6HYU3wv.WEesSpitzLnaCknL' @ 0 : 0; will stop at (end)
+2023/10/27-22:39:05.522 170 Manual compaction at level-1 from '!actors!4BTLYiRHBf6WBjbf' @ 72057594037927935 : 1 .. '!actors.items!wuh8YHDTn6HYU3wv.WEesSpitzLnaCknL' @ 0 : 0; will stop at '!actors!tUjActADU3w8BCA4' @ 113 : 1
+2023/10/27-22:39:05.522 170 Compacting 1@1 + 1@2 files
+2023/10/27-22:39:05.629 170 Generated table #10@1: 87 keys, 86301 bytes
+2023/10/27-22:39:05.629 170 Compacted 1@1 + 1@2 files => 86301 bytes
+2023/10/27-22:39:05.672 170 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/27-22:39:05.673 170 Delete type=2 #5
+2023/10/27-22:39:05.674 170 Delete type=2 #9
+2023/10/27-22:39:05.674 170 Manual compaction at level-1 from '!actors!tUjActADU3w8BCA4' @ 113 : 1 .. '!actors.items!wuh8YHDTn6HYU3wv.WEesSpitzLnaCknL' @ 0 : 0; will stop at (end)
