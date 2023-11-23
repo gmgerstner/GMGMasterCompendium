@@ -7,8 +7,9 @@ A compendium of most commonly used monsters for personal Foundry VTT worlds.
 * Direct Link: [https://github.com/gmgerstner/GMGMasterCompendium/archive/refs/tags/1.0.2.zip](https://github.com/gmgerstner/GMGMasterCompendium/releases/latest/download/module.zip)
 
 ## Requirements
-(draft) This module **REQUIRES** [about-time](https://gitlab.com/tposney/about-time) v0.1.18 or greater installed and loaded to function correctly.
-(draft) If you want to have weather effects, you must have [FXMaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster) by U~Man installed and loaded.
+* This module **REQUIRES** [journal-improvements](https://github.com/ClipplerBlood/journal-improvements) v0.6.2 or greater installed and loaded to function correctly.
+* This module **REQUIRES** [foundryvtt-simple-calendar](https://github.com/vigoren/foundryvtt-simple-calendar) v2.4.3 or greater installed and loaded to function correctly.
+* If you want to have weather effects, you must have [FXMaster](https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster) by U~Man installed and loaded.
 
 ## Features:
 * Contains a pack for typical monsters.
