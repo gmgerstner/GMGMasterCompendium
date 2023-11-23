@@ -1,7 +1,7 @@
 {
   "id": "gmg-master-compendium",
   "title": "GMG Master Compendium",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -14,8 +14,7 @@
     }
   ],
   "url": "https://github.com/gmgerstner/GMGMasterCompendium",
-  "manifest": "https://raw.githubusercontent.com/gmgerstner/GMGMasterCompendium/main/module.json",
-  "download": "https://github.com/gmgerstner/GMGMasterCompendium/archive/refs/tags/1.0.1.zip",
+  "manifest": "https://github.com/gmgerstner/GMGMasterCompendium/blob/main/module.json",
   "packs": [
     {
       "label": "Monsters",
@@ -23,6 +22,32 @@
       "type": "Actor",
       "system": "dnd5e",
       "path": "packs/monsters"
+    },
+    {
+      "label": "Pre-Generated Characters",
+      "name": "pre-generated-characters",
+      "type": "Actor",
+      "system": "dnd5e",
+      "path": "packs/pre-generated-characters"
+    },
+    {
+      "label": "Journal",
+      "name": "journal",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "path": "packs/journal"
     }
-  ]
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "journal-improvements",
+        "type": "module"
+      },
+      {
+        "id": "foundryvtt-simple-calendar",
+        "type": "module"
+      }
+    ]
+  }
 }
