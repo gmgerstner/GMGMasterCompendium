@@ -4,7 +4,7 @@ A compendium of most commonly used monsters for personal Foundry VTT worlds.
 
 ## Links:
 * Manifest: https://raw.githubusercontent.com/DasSauerkraut/calendar-weather/master/module.json
-* Direct Link: https://github.com/gmgerstner/GMGMasterCompendium/archive/refs/tags/1.0.1.zip
+* Direct Link: https://github.com/gmgerstner/GMGMasterCompendium/archive/refs/tags/1.0.2.zip
 
 ## Requirements
 (draft) This module **REQUIRES** [about-time](https://gitlab.com/tposney/about-time) v0.1.18 or greater installed and loaded to function correctly.
